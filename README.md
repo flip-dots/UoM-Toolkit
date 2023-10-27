@@ -15,7 +15,7 @@ Be notified of lectures, workshops, and labs, and check into them without having
 
 View your deadlines in a linear fashion that is not incomprehensible
 
-<img src="demo/spot-1.png" width="200" /> <img src="demo/spot-2.png" width="200" /> <img src="demo/spot-3.png" width="200" /> <img src="demo/spot-4.png" width="200" />
+<img src="demo/spot-1.png" width="200" /> <img src="demo/spot-2.png" width="200" /> <img src="demo/spot-3.png" width="200" />
 
 
 
